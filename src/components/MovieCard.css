@@ -1,4 +1,3 @@
-/* Block: movie-card */
 .movie-card {
     width: 18rem;
     border: 1px solid #ddd;
@@ -12,45 +11,38 @@
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
   
-  /* Element: movie-card__image */
   .movie-card__image {
     width: 100%;
     height: auto;
   }
   
-  /* Element: movie-card__body */
   .movie-card__body {
     padding: 1rem;
   }
   
-  /* Element: movie-card__title */
   .movie-card__title {
     font-size: 1.25rem;
     margin: 0 0 0.5rem;
   }
   
-  /* Element: movie-card__subtitle */
   .movie-card__subtitle {
     font-size: 1rem;
     color: #666;
     margin: 0 0 1rem;
   }
   
-  /* Element: movie-card__text */
   .movie-card__text {
     font-size: 0.875rem;
     color: #333;
     margin: 0 0 1rem;
   }
   
-  /* Element: movie-card__duration */
   .movie-card__duration {
     font-size: 0.75rem;
     color: #999;
     margin: 0 0 0.5rem;
   }
   
-  /* Element: movie-card__category */
   .movie-card__category {
     font-size: 0.75rem;
     color: #999;
